@@ -1,0 +1,75 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: fantasy;
+    font-style: oblique;
+    
+}
+
+a:hover{
+    background-color: #72ff75;
+}
+a{color:#20081e}
+
+
+.avatar {
+    width: 150px;
+    border: 1px solid;
+    box-shadow: -3px 3px #f896d8
+}
+
+.card {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-image: url("https://wallpaperforu.com/wp-content/uploads/2022/10/Edgerunners-Hd-Wallpaper-4k-Download-Full-Screen.jpg");
+    background-size: 520px;
+    color: #20081e;
+    border-bottom: 7px solid pink;
+    box-shadow: -3px 4px #72ff75;
+    border-radius: 7px;
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+.text{
+    text-decoration: underline #20081e;
+}
+.inquire{
+    
+     text-decoration: unset;
+     color: black;
+     margin: 0 15px;
+     display:flex;
+    
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+.text{
+    margin: 40px auto;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
